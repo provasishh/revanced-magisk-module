@@ -11,7 +11,7 @@ excluded-patches = ""
 included-patches = ""
 version = "auto"
 archive-dlurl = 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-21-34-release/" # fallback
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
 
 [Music]
 enabled = false
